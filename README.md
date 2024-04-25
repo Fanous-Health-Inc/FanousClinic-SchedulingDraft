@@ -21,7 +21,7 @@
    - 11:05 AM - 11:55 AM: Doctor in Exam Room (2)
    - 11:55 AM - 12:00 PM: Reception (Check-out)
 
-<br />
+<br>
 ### Evening Shift Schedule:
 1. **Visit 1:**
    - 1:00 PM - 1:10 PM: Reception (Check-in)
