@@ -22,6 +22,7 @@
    - 11:55 AM - 12:00 PM: Reception (Check-out)
 
 <br>
+
 ### Evening Shift Schedule:
 1. **Visit 1:**
    - 1:00 PM - 1:10 PM: Reception (Check-in)
