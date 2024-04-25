@@ -1,5 +1,5 @@
 # New Patient Slots
-### Morning Shift Schedule:
+### Morning Shift Schedule (8:00 AM - 12:00 PM):
 1. **Visit 1: 8:00 AM**
    - 8:00 AM - 8:10 AM: Reception (Check-in)
    - 8:10 AM - 8:20 AM: Nurse in Exam Room (1)
@@ -23,7 +23,7 @@
 
 <br>
 
-### Evening Shift Schedule:
+### Evening Shift Schedule (1:00 PM - 5:00 PM):
 1. **Visit 1: 1:00 PM**
    - 1:00 PM - 1:10 PM: Reception (Check-in)
    - 1:10 PM - 1:20 PM: Nurse in Exam Room (1)
