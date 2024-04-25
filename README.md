@@ -127,9 +127,7 @@
    - 3:10 PM - 3:15 PM: Reception (Check-out)
 
 5. **Visit 5:**
-   - 3:00 PM - 3:10
-
- PM: Reception (Check-in)
+   - 3:00 PM - 3:10 PM: Reception (Check-in)
    - 3:10 PM - 3:20 PM: Nurse in Exam Room (1)
    - 3:20 PM - 3:40 PM: Doctor in Exam Room (2)
    - 3:40 PM - 3:45 PM: Reception (Check-out)
